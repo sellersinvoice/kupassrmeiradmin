@@ -12,7 +12,7 @@ import { getFirestore } from "https://www.gstatic.com/firebasejs/10.12.0/firebas
 //   appId: "1:18244313186:web:3f260f9a29b6b63504b13b"
 // };
 
-const firebaseConfig = {
+export const firebaseConfig = {
   apiKey: "AIzaSyCy8_AZiOSo46TzPjJGTKjeYCu7LKZ0Fzg",
   authDomain: "thetzaddik.firebaseapp.com",
   projectId: "thetzaddik",
